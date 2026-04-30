@@ -17,8 +17,6 @@ I work across Linux, Kubernetes, Docker, CI/CD, observability, incident response
 - `lovie-afb-assignment` — reviewer-friendly fintech assignment implementation with explicit specs, E2E evidence, production demo, and AI-assisted engineering notes.
 - `Agentic-Infra-Notes` — sanitized notes on AI-assisted infrastructure, agentic workflows, LLMOps, self-hosted automation control planes, and local fine-tuning infrastructure experiments.
 
-Additional sanitized notes around AI-assisted infrastructure and agentic workflows are available in `Agentic-Infra-Notes`.
-
 ## Private R&D
 
 I maintain private R&D projects around AI-assisted infrastructure, agentic development workflows, and self-hosted automation control planes.
@@ -55,7 +53,10 @@ Private infrastructure/control-plane project focused on:
 Linux · Kubernetes · Docker · Rancher · OpenShift · GitLab CI/CD · Jenkins · Azure DevOps  
 Prometheus · Grafana · Coroot · ClickHouse · Zabbix · ELK · AppDynamics  
 PostgreSQL · Redis · Kafka · Bash · Python · TypeScript  
-Trivy · Snyk · Infisical · Cloudflare · HAProxy
+Trivy · Snyk · Infisical · Cloudflare · HAProxy  
+
+AI / LLM infrastructure: Hugging Face · vLLM · LiteLLM · Qdrant · Weaviate · Ollama · Dify · n8n  
+AI-assisted engineering: Claude Code · OpenAI Codex · Windsurf · MCP · Playwright
 
 ## Contact
 
