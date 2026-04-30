@@ -12,11 +12,35 @@ I work across Linux, Kubernetes, Docker, CI/CD, observability, incident response
 - AI-assisted development workflows with Claude Code, Codex, and local automation tooling
 - Self-hosted automation and infrastructure control planes
 
-## Selected work
+## Selected public work
 
-- `lovie-afb-assignment` — reviewer-friendly fintech assignment implementation with explicit specs, E2E evidence, and AI workflow notes.
-- `dmsmt` — disk monitoring and system maintenance tool with Jenkins, alerting, and operational automation patterns.
-- `scripts` — practical infrastructure and automation scripts.
+- `lovie-afb-assignment` — reviewer-friendly fintech assignment implementation with explicit specs, E2E evidence, production demo, and AI-assisted engineering notes.
+
+More public notes around AI-assisted infrastructure and agentic workflows are being prepared.
+
+## Private R&D
+
+I maintain private R&D projects around AI-assisted infrastructure, agentic development workflows, and self-hosted automation control planes.
+
+### Agents-Core
+
+Private multi-agent engineering workflow project focused on:
+
+- task routing between local and cloud models
+- context budget control
+- prompt/interface boundaries
+- human-in-the-loop checkpoints
+- reproducible agent workflows
+
+### Aegis-Forge
+
+Private infrastructure/control-plane project focused on:
+
+- self-hosted automation environments
+- observability-first workflow execution
+- secure configuration boundaries
+- operational runbooks
+- reusable automation building blocks
 
 ## Engineering principles
 
