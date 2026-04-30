@@ -15,7 +15,7 @@ I work across Linux, Kubernetes, Docker, CI/CD, observability, incident response
 ## Selected public work
 
 - `lovie-afb-assignment` — reviewer-friendly fintech assignment implementation with explicit specs, E2E evidence, production demo, and AI-assisted engineering notes.
-- `Agentic-Infra-Notes` — sanitized notes on AI-assisted infrastructure, agentic workflows, LLMOps, and self-hosted automation control planes.
+- `Agentic-Infra-Notes` — sanitized notes on AI-assisted infrastructure, agentic workflows, LLMOps, self-hosted automation control planes, and local fine-tuning infrastructure experiments.
 
 Additional sanitized notes around AI-assisted infrastructure and agentic workflows are available in `Agentic-Infra-Notes`.
 
