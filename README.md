@@ -15,8 +15,9 @@ I work across Linux, Kubernetes, Docker, CI/CD, observability, incident response
 ## Selected public work
 
 - `lovie-afb-assignment` — reviewer-friendly fintech assignment implementation with explicit specs, E2E evidence, production demo, and AI-assisted engineering notes.
+- `Agentic-Infra-Notes` — sanitized notes on AI-assisted infrastructure, agentic workflows, LLMOps, and self-hosted automation control planes.
 
-More public notes around AI-assisted infrastructure and agentic workflows are being prepared.
+Additional sanitized notes around AI-assisted infrastructure and agentic workflows are available in `Agentic-Infra-Notes`.
 
 ## Private R&D
 
@@ -56,21 +57,8 @@ Prometheus · Grafana · Coroot · ClickHouse · Zabbix · ELK · AppDynamics
 PostgreSQL · Redis · Kafka · Bash · Python · TypeScript  
 Trivy · Snyk · Infisical · Cloudflare · HAProxy
 
-## Links
+## Contact
 
-- LinkedIn: https://www.linkedin.com/in/orcunsener
+For professional inquiries, the best way to reach me is via LinkedIn:
 
-<!--
-**rcnsnr/rcnsnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- https://www.linkedin.com/in/orcunsener
