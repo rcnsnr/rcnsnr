@@ -31,12 +31,14 @@ Private multi-agent engineering workflow project focused on:
 - prompt/interface boundaries
 - human-in-the-loop checkpoints
 - reproducible agent workflows
+- a complete governance engine for AI Vendors
 
 ### Aegis-Forge
 
 Private infrastructure/control-plane project focused on:
 
 - self-hosted automation environments
+- LangGraph, LangChain, LangFuse, and more..
 - observability-first workflow execution
 - secure configuration boundaries
 - operational runbooks
