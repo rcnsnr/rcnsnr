@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+  <title id="title">Scope, verify, recover</title>
+  <desc id="desc">Limit task and access scope, verify changes through tests and review, and keep execution observable and recoverable.</desc>
+  <rect width="960" height="180" rx="10" fill="#112333"/>
+  <g fill="#152c3e" stroke="#30536a" stroke-width="1.5">
+    <rect x="20" y="18" width="280" height="144" rx="8"/>
+    <rect x="340" y="18" width="280" height="144" rx="8"/>
+    <rect x="660" y="18" width="280" height="144" rx="8"/>
+  </g>
+  <g fill="none" stroke="#64d7c0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M309 90h21m-7-7 7 7-7 7"/>
+    <path d="M629 90h21m-7-7 7 7-7 7"/>
+    <path d="M160 39l20 8v16c0 14-20 24-20 24s-20-10-20-24V47z"/>
+    <circle cx="480" cy="63" r="23"/>
+    <path d="M468 63l8 8 16-17"/>
+    <path d="M800 40a23 23 0 1 1-23 23"/>
+    <path d="M770 70l7-7 7 7"/>
+  </g>
+  <g fill="#e6edf3" font-family="Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle">
+    <text x="89.97" y="136" fill="#e6edf3" font-family="Arial,sans-serif" font-size="40" font-weight="700" text-anchor="start">SCOPE</text>
+    <text x="407.75" y="136" fill="#e6edf3" font-family="Arial,sans-serif" font-size="40" font-weight="700" text-anchor="start">VERIFY</text>
+    <text x="701.08" y="136" fill="#e6edf3" font-family="Arial,sans-serif" font-size="40" font-weight="700" text-anchor="start">RECOVER</text>
+  </g>
+</svg>
