@@ -1,68 +1,48 @@
 # Orçun Şener
 
-Senior SRE / Platform Engineer focused on reliable infrastructure, observability, automation, and AI-assisted engineering workflows.
+AI-assisted software delivery · SRE · Platform engineering
 
-I work across Linux, Kubernetes, Docker, CI/CD, observability, incident response, and infrastructure automation. Recently, I have been building practical AI-assisted development and automation systems with a strong focus on reproducibility, operational safety, and cost-aware workflows.
+I build practical software and automation with a reliability-first approach. My background spans Linux, containers, observability, and incident response; my public projects show APIs, web interfaces, tests, and documented delivery decisions.
 
-## Current focus
+## Selected work
 
-- SRE, DevOps, and platform engineering
-- Kubernetes, Docker, Linux, CI/CD, and observability
-- Prometheus, Grafana, Coroot/eBPF, ClickHouse, Zabbix
-- AI-assisted development workflows with Claude Code, Codex, and local automation tooling
-- Self-hosted automation and infrastructure control planes
+### [Job Search Workflow](https://github.com/rcnsnr/job-search-workflow)
 
-## Selected public work
+Local-first job-search tooling with a Python CLI, FastAPI dashboard, browser extension, and user-controlled AI workflows. Alpha; source-available for noncommercial use.
 
-- `pptx-brand-reviewer` — deterministic-first PPTX brand compliance reviewer built with FastAPI and Next.js.
-- `lovie-afb-assignment` — reviewer-friendly fintech assignment implementation with explicit specs, E2E evidence, production demo, and AI-assisted engineering notes.
-- `Agentic-Infra-Notes` — sanitized notes on AI-assisted infrastructure, agentic workflows, LLMOps, self-hosted automation control planes, and local fine-tuning infrastructure experiments.
+[Code](https://github.com/rcnsnr/job-search-workflow/blob/main/dashboard/server.py) · [Tests](https://github.com/rcnsnr/job-search-workflow/blob/main/tests/test_dashboard.py) · [Privacy and CI checks](https://github.com/rcnsnr/job-search-workflow/blob/main/.github/workflows/ci.yml)
 
-## Private R&D
+### [PPTX Brand Reviewer](https://github.com/rcnsnr/pptx-brand-reviewer)
 
-I maintain private R&D projects around AI-assisted infrastructure, agentic development workflows, and self-hosted automation control planes.
+FastAPI + Next.js application for explainable slide-level brand findings and human review. Deterministic checks; no AI runtime dependency.
 
-### Agents-Core
+[Review UI](https://github.com/rcnsnr/pptx-brand-reviewer/blob/main/apps/web/components/review-workspace.tsx) · [Rules](https://github.com/rcnsnr/pptx-brand-reviewer/blob/main/apps/api/src/brand_reviewer_api/services/rules.py) · [Tests](https://github.com/rcnsnr/pptx-brand-reviewer/blob/main/apps/api/tests/test_rules.py)
 
-Private multi-agent engineering workflow project focused on:
+### [Payment Request Demo](https://github.com/rcnsnr/lovie-afb-assignment)
 
-- task routing between local and cloud models
-- context budget control
-- prompt/interface boundaries
-- human-in-the-loop checkpoints
-- reproducible agent workflows
-- a complete governance engine for AI Vendors
+Next.js/TypeScript + Prisma/PostgreSQL assignment with responsive dashboards, server-enforced lifecycle rules, and Playwright evidence. Payments are simulated.
 
-### Aegis-Forge
+[Data model](https://github.com/rcnsnr/lovie-afb-assignment/blob/main/prisma/schema.prisma) · [Tests](https://github.com/rcnsnr/lovie-afb-assignment/blob/main/e2e/pay-simulation.spec.ts) · [AI delivery log](https://github.com/rcnsnr/lovie-afb-assignment/blob/main/docs/AI_PROCESS.md)
 
-Private infrastructure/control-plane project focused on:
+### [Agentic Infra Notes](https://github.com/rcnsnr/Agentic-Infra-Notes)
 
-- self-hosted automation environments
-- LangGraph, LangChain, LangFuse, and more..
-- observability-first workflow execution
-- secure configuration boundaries
-- operational runbooks
-- reusable automation building blocks
+Sanitized agent-workflow architecture, local LLM experiments, and operational safety notes. Public documentation rather than private implementation code.
 
-## Engineering principles
+## AI and local LLM work
 
-- Prefer reproducible setups over manual configuration.
-- Make operational behavior visible through metrics, logs, traces, and runbooks.
-- Keep automation boring, testable, and reversible.
-- Use AI agents as engineering accelerators, not as uncontrolled code generators.
+I use **Claude, Codex, and Devin** for scoped planning, implementation, debugging, and documentation. My delivery approach connects requirements to reviewable changes, automated checks, and human decisions.
 
-## Core stack
+The [historical GX10/GB10 lab](https://github.com/rcnsnr/Agentic-Infra-Notes/blob/main/case-studies/botaio-n8n-finetuning-lab.md) documents Arm/Blackwell compatibility, QLoRA-oriented debugging, and memory trade-offs. BOTAIO is on hold. Hermes orchestration is a research/design direction, without a published end-to-end validation result.
 
-Linux · Kubernetes · Docker · Rancher · OpenShift · GitLab CI/CD · Jenkins · Azure DevOps  
-Prometheus · Grafana · Coroot · ClickHouse · Zabbix · ELK · AppDynamics  
-PostgreSQL · Redis · Kafka · Bash · Python · TypeScript  
-Trivy · Snyk · Infisical · Cloudflare · HAProxy  
+## Security and reliability
 
-AI / LLM infrastructure: Hugging Face · vLLM · LiteLLM · Qdrant · Weaviate · Ollama · Dify · n8n  
-AI-assisted engineering: Claude Code · OpenAI Codex · Windsurf · MCP · Playwright
+- Explicit task scope and limited data/credential exposure.
+- Tests and review before consequential changes.
+- Observable execution and documented failure modes.
+- Reproducible setup, recoverable changes, and clear evidence boundaries.
+
+Published test assets describe recorded runs; they do not guarantee current deployment health.
 
 ## Contact
 
-For professional inquiries, the best way to reach me is via LinkedIn:
-
-- https://www.linkedin.com/in/orcunsener
+[LinkedIn](https://www.linkedin.com/in/orcunsener)
